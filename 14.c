@@ -1,4 +1,5 @@
-//�P�_�j��
+//判斷是否為迴文
+//輸入一個正整數，迴文印出 ” 是 ” ；非回文印出 ” 否 ” 
 
 #include<stdio.h>
 #include<string.h>
