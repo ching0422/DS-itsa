@@ -1,4 +1,6 @@
-//�j��P�O
+//迴文判別
+//鍵盤輸入一字串S，字串為 ASCII Code 組成，且區分大小寫
+//若 S 為迴文，則輸出「 S 是迴文」，否則輸出「 S 不是迴文」
 
 #include<stdio.h>
 #include<string.h>
