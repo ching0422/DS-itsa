@@ -1,4 +1,6 @@
-//ASCII��r��
+//ASCII轉成對應字元
+//輸入一個正整數
+//輸出字元
 
 #include<stdio.h>
 #include<string.h>
