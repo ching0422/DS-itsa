@@ -1,4 +1,6 @@
-//�P���L�٧�
+//星號菱形輸出
+//輸入一個正整數
+//輸出菱形
 
 #include<stdio.h>
 #include<string.h>
