@@ -1,4 +1,5 @@
-//�̤j���
+//最大質數問題
+//連續輸入正整數。輸出最大質數。
 
 #include<stdio.h>
 #include<string.h>
