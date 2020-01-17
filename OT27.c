@@ -1,4 +1,7 @@
 //BMI
+//首先輸入一正整數n，表示有 n 筆測資
+//每筆測資包括身高H(公分) 與體重 W (公斤)
+//輸出計算後的BMI後，再顯示建議
 
 #include<stdio.h>
 #include<string.h>
