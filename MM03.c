@@ -1,4 +1,5 @@
-//�p���`�M�B���n�B�t�B�өM�l��
+//計算總和、乘積、差、商和餘數
+//輸入兩個整數，輸出總和、乘積、差、商、和餘數
 
 #include<stdio.h>
 #include<string.h>
