@@ -1,4 +1,5 @@
-//���|�~
+//平、閏年判定
+//輸入西元年份，輸出閏年(Bissextile Year)或平年(Common Year)
 
 #include<stdio.h>
 #include<string.h>
