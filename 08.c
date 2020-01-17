@@ -1,4 +1,6 @@
-//��ƧP�O
+//質數判別
+//輸入一個整數，然後判別此數是否為質數
+//質數顯示 YES ；非質數顯示 NO
 
 #include<stdio.h>
 #include<string.h>
