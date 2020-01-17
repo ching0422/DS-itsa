@@ -1,4 +1,6 @@
-//�r���Ÿ��ഫ��ASCII
+//字元符號轉換成ASCII
+//輸入一個字元
+//輸出標準萬國碼
 
 #include<stdio.h>
 #include<string.h>
