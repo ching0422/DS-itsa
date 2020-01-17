@@ -1,4 +1,6 @@
-//�D��ư��D
+//求質數問題
+//從鍵盤輸入一個整數 n ， 1 < n ≤ 1000 ， 且 n 為整數
+//輸出小於 等於 n 的最大質數。
 
 #include<stdio.h>
 #include<string.h>
