@@ -1,4 +1,6 @@
 //字串算字元
+//輸入任一字串。
+//輸出輸入之字串會有幾個字元。
 
 #include<stdio.h>
 #include<string.h>
