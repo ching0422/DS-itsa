@@ -1,4 +1,5 @@
-//���ū���ئ��ū�
+//攝氏溫度轉華式溫度
+//輸入攝氏溫度，輸出華氏溫度
 
 #include<stdio.h>
 #include<string.h>
