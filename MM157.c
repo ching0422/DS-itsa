@@ -1,4 +1,6 @@
-//�D�O���ƦC
+//求費氏數列
+//輸入一個數字為 n
+//輸出費氏數列為 :0,1,1……
 
 #include<stdio.h>
 #include<string.h>
