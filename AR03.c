@@ -1,4 +1,5 @@
-//�}�C�����ߤ�M
+//計算陣列中所有元素的立方和
+//任意輸入六個整數。輸出所有元素的立方和。
 
 #include<stdio.h>
 #include<string.h>
